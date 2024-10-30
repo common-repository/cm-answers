@@ -4,7 +4,7 @@ Contributors: CreativeMindsSolutions
 Donate link: http://www.cminds.com/
 Tags: question, answer, questions answer,forum, q&a
 Requires at least: 5.4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 3.2.5
 Requires PHP: 5.4
 License: GPLv2 or later
